@@ -20,4 +20,4 @@ yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
 
 yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
 
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/80-hours-a-week/junwoo-til/blob/main/Jan/2025.01.01.md))
